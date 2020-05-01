@@ -31,3 +31,12 @@ fields:
   - signup-bar
   - simple-footer
   - 4-column-footer
+- name: calendar
+  type: datetime
+  label: Calendar
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
