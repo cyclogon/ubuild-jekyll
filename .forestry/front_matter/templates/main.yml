@@ -1,4 +1,10 @@
 ---
 label: Main
 hide_body: true
-fields: []
+fields:
+- name: j__fuentes
+  type: text
+  config:
+    required: false
+  label: J. Fuentes
+  description: Main page
