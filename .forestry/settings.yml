@@ -12,6 +12,7 @@ sections:
   label: Blog
   create: all
   templates:
+  - page-builder
   - content-feature
 - type: document
   path: _config.yml
